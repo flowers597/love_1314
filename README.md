@@ -19,7 +19,7 @@
     <h1>⚠️ 警告：发现未知情感程序</h1>
     <p>正在解码... <span id="progress">0%</span></p>
     <button onclick="showLove()">点击强制运行</button>
-    <p id="msg">❤️ 解码完成！错误代码：LOVE-1314<br>——你的名字</p>
+    <p id="msg">❤️ 解码完成！错误代码：LOVE-1314<br>——我的香兵</p>
 
     <script>
         function showLove() {
