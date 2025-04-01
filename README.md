@@ -10,7 +10,7 @@
         }
         #msg { 
             display: none;
-            font-size: 24px;
+            font-size:24px;
             margin-top: 20px;
         }
     </style>
